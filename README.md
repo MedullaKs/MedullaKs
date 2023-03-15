@@ -10,7 +10,7 @@
 ### Follow me
 [
 ![Telegram](https://img.shields.io/badge/-Telegram-006262?style=for-the-badge&logo=Telegram) 
-](t.me/medullaks)
+](https://t.me/medullaks)
 [
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-006262?style=for-the-badge&logo=linkedin&logoColor=0073B1)
 ](https://www.linkedin.com/in/medullaks/)
