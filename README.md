@@ -2,14 +2,21 @@
 
 ## I'm a beginner Software Engineer from Madrid
 
+## My CV
+[
+![MyCV](https://img.shields.io/badge/-CV-9457EB?style=for-the-badge&logo=)
+](https://github.com/MedullaKs)
+
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-006262?style=for-the-badge&logo=Postman)
-![Sql](https://img.shields.io/badge/-Sql-006262?style=for-the-badge&logo=mysql&logoColor=DE8B00)
+![MySql](https://img.shields.io/badge/-Sql-006262?style=for-the-badge&logo=mysql&logoColor=DE8B00)
 ![Jira](https://img.shields.io/badge/-Jira-006262?style=for-the-badge&logo=Jira&logoColor=0D79F7)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-006262?style=for-the-badge&logo=visualstudiocode&logoColor=1B84CA)
 ![WindowsPowerShell](https://img.shields.io/badge/-PowerShell-006262?style=for-the-badge&logo=powershell)
 ![GitHub](https://img.shields.io/badge/-GitHub-006262?style=for-the-badge&logo=github)
 ![DevTools](https://img.shields.io/badge/-DevTools-006262?style=for-the-badge&logo=googlechrome)
+![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-006262?style=for-the-badge&logo=charlesproxy)
+![Fiddler](https://img.shields.io/badge/-Fiddler-006262?style=for-the-badge&logo=fiddleclassic)
 
 ### Follow me
 [
