@@ -4,8 +4,8 @@
 
 ## My CV
 [
-![MyCV](https://img.shields.io/badge/-CV-9457EB?style=for-the-badge&logo=)
-](https://github.com/MedullaKs)
+![MyCV](https://img.shields.io/badge/-MyCVlink-9457EB?style=for-the-badge&logo=)
+](https://drive.google.com/file/d/1rorMCmcHWqzjbpiWV-Zpm9X_baVdl4HQ/view?usp=share_link)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-006262?style=for-the-badge&logo=Postman)
