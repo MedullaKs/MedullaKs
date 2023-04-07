@@ -4,7 +4,7 @@
 
 ## My CV
 [
-![MyCV](https://img.shields.io/badge/-MyCVlink-9457EB?style=for-the-badge&logo=)
+![MyCV](https://img.shields.io/badge/-Link-9457EB?style=for-the-badge&logo=)
 ](https://drive.google.com/file/d/1rorMCmcHWqzjbpiWV-Zpm9X_baVdl4HQ/view?usp=share_link)
 
 ### Tools
